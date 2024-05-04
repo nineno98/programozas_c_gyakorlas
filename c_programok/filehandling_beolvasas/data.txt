@@ -1,0 +1,4 @@
+alma;3
+korte;2
+szilva;3
+barack;0
